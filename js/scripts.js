@@ -9,5 +9,14 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-  $('.slider').slider({full_width: true});
+  $('.slider').slider({Height: 100});
+});
+
+$(document).ready(function() {
+  $('.my-slider').unslider({
+    autoplay: true,
+    infinite: true,
+    nav: false,
+    arrows: false
+  });
 });
