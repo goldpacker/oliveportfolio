@@ -6,3 +6,37 @@
 .introduction {
   font-family: Raleway, serif;
 }
+
+.hover-image figure {
+	margin: 0;
+	position: relative;
+}
+
+.hover-image figure img {
+	max-width: 100%;
+	display: block;
+	position: relative;
+}
+
+.hover-image figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  background: #2c3f52;
+  color: #ed4e6e;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  text-align: center;
+  backface-visibility: hidden;
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.hover-image figure:hover figcaption {
+	opacity: 0.5;
+}
+.hover-image figcaption p {
+	margin-top: 70px;
+  opacity: 1;
+}
