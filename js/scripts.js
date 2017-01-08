@@ -20,3 +20,7 @@ $(document).ready(function() {
     arrows: false
   });
 });
+
+$(document).ready(function(){
+  $('.parallax').parallax();
+});
