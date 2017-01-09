@@ -3,6 +3,11 @@
   height: auto;
 }
 
+.half-height {
+  max-height: 50%;
+  width: auto;
+}
+
 .introduction {
   font-family: Raleway, serif;
 }
@@ -47,4 +52,85 @@
 
 .enlarge-text {
   color: #4fc3f7;
+}
+
+.section-header {
+  font-family: Raleway, serif;
+  font-size: 2.25em;
+  color: #9B9B9B;
+  text-align: center;
+}
+
+.description-text {
+  font-family: Open Sans, serif;
+  font-size: 2.25em;
+  line-height: 1.2em;
+}
+
+.description-amp {
+  color: #48B6A1;
+}
+
+.quote-text {
+  font-family: Raleway, serif;
+  font-size: 2.25em;
+  text-align: center;
+}
+
+.quote-amp {
+  color: #48B6A1;
+  font-size: 1.4em;
+}
+
+.grey-board {
+  background-color: #4A4A4A;
+  color: #FFFFFF;
+}
+
+.list-head {
+  font-family: Raleway, serif;
+  font-size: 2.25em;
+  color: #48B6A1;
+}
+
+.list-item {
+  font-family: Source Sans Pro, serif;
+  font-size: 1.875em;
+  color: #9B9B9B;
+}
+
+.image-background {
+  background-image: url(../image/gotable/personaBack.png);
+  background-size: cover;
+}
+
+.persona-header {
+  font-family: Raleway, serif;
+  font-size: 1.875em;
+  font-weight: bold;
+}
+
+.persona-description {
+  font-family: Open Sans, serif;
+  font-size: 1.875em;
+  line-height: 1em;
+}
+
+.persona-item {
+  list-style-type: disc;
+  font-family: Raleway, serif;
+  font-size: 1.875em;
+  line-height: 1em;
+}
+
+.image-description {
+  font-family: Open Sans, serif;
+  font-size: 2.25em;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.footer-space {
+  height: 120px;
 }
