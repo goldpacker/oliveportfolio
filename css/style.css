@@ -134,3 +134,8 @@
 .footer-space {
   height: 120px;
 }
+
+.thinking-background {
+  background-image: url(../image/gotable/designthinkBK.png);
+  background-size: cover;
+}
