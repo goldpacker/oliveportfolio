@@ -47,11 +47,13 @@
 }
 
 .parallax-container {
-  height: 1200px;
+  height: 100vh;
 }
 
 .enlarge-text {
   color: #4fc3f7;
+  font-size: 1.2em;
+  font-weight: bold;
 }
 
 .section-header {
@@ -69,11 +71,13 @@
 
 .description-amp {
   color: #48B6A1;
+  font-weight: bold;
 }
 
 .quote-text {
   font-family: Raleway, serif;
   font-size: 2.25em;
+  font-weight: 600;
   text-align: center;
 }
 
@@ -137,5 +141,41 @@
 
 .thinking-background {
   background-image: url(../image/gotable/designthinkBK.png);
-  background-size: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.design-header {
+  font-family: Raleway, serif;
+  font-size: 2.25em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.design-description {
+  font-family: Open Sans, serif;
+  font-size: 2.25em;
+  text-align: center;
+}
+
+.final-header {
+  font-family: Open Sans, serif;
+  font-size: 3.375em;
+  text-align: center;
+}
+
+.move-page {
+  position: relative;
+  top: 600px;
+}
+
+.page-list-header {
+  font-family: Raleway, serif;
+  font-size: 1.875em;
+  color: #9B9B9B;
+}
+
+.page-list-item {
+  font-family: Raleway, serif;
+  font-size: 1.5em;
 }
