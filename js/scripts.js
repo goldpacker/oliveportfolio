@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $('.carousel').carousel({
-    dist: -100, shift: 40
+    dist: -20, padding: 200
   });
 });
 

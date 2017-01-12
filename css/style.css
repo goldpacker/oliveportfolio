@@ -28,18 +28,17 @@
   top: 0;
   left: 0;
   padding: 20px;
-  background: #2c3f52;
-  color: #ed4e6e;
+  background: #4A4A4A;
+  color: #ffffff;
   height: 100%;
   width: 100%;
   opacity: 0;
-  text-align: center;
   backface-visibility: hidden;
   transition: transform 0.3s, opacity 0.3s;
 }
 
 .hover-image figure:hover figcaption {
-	opacity: 0.5;
+	opacity: 0.9;
 }
 .hover-image figcaption p {
 	margin-top: 70px;
@@ -105,7 +104,7 @@
 
 .image-background {
   background-image: url(../image/gotable/personaBack.png);
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 .persona-header {
@@ -141,7 +140,7 @@
 
 .thinking-background {
   background-image: url(../image/gotable/designthinkBK.png);
-  background-size: 100%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
@@ -178,4 +177,71 @@
 .page-list-item {
   font-family: Raleway, serif;
   font-size: 1.5em;
+}
+
+.final-background {
+  background-image: url(../image/gotable/2B.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.move-up {
+  height: 200px;
+}
+
+.final-footer {
+  height: 2000px;
+}
+
+.hifi-background {
+  background-image: url(../image/gotable/hifiBK.png);
+  background-size: 100% 102%;
+  background-repeat: no-repeat;
+}
+
+.enlarge-image {
+height: auto;
+  width: 125%;
+}
+
+
+.img-header {
+  font-family: Raleway, serif;
+  font-size: 3.375em;
+  font-weight: bold;
+}
+
+.img-des {
+  font-family: Raleway, serif;
+  font-size: 2.25em;
+  font-weight: 600;
+}
+
+.self-introduction {
+  font-family: Raleway, serif;
+  font-size: 1.875em;
+  color: #4A4A4A;
+}
+.myname {
+  font-family: Arvo, serif;
+  font-size: 2em;
+  color: #4A4A4A;
+}
+
+.nav-item {
+  font-family: Raleway, serif;
+  font-size: 1.5em;
+  color: #4A4A4A;
+}
+
+.nav-bar {
+  height: 168px;
+}
+
+.carousel {
+  height: 400px;
+}
+.carousel .carousel-item {
+  height: auto;
+  width: 400px;
 }
