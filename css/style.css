@@ -57,14 +57,14 @@
 
 .section-header {
   font-family: Raleway, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   color: #9B9B9B;
   text-align: center;
 }
 
 .description-text {
   font-family: Open Sans, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   line-height: 1.2em;
 }
 
@@ -75,7 +75,7 @@
 
 .quote-text {
   font-family: Raleway, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   font-weight: 600;
   text-align: center;
 }
@@ -92,13 +92,13 @@
 
 .list-head {
   font-family: Raleway, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   color: #48B6A1;
 }
 
 .list-item {
   font-family: Source Sans Pro, serif;
-  font-size: 1.875em;
+  font-size: 1.67vw;
   color: #9B9B9B;
 }
 
@@ -109,26 +109,26 @@
 
 .persona-header {
   font-family: Raleway, serif;
-  font-size: 1.875em;
+  font-size: 1.67vw;
   font-weight: bold;
 }
 
 .persona-description {
   font-family: Open Sans, serif;
-  font-size: 1.875em;
+  font-size: 1.67vw;
   line-height: 1em;
 }
 
 .persona-item {
   list-style-type: disc;
   font-family: Raleway, serif;
-  font-size: 1.875em;
+  font-size: 1.67vw;
   line-height: 1em;
 }
 
 .image-description {
   font-family: Open Sans, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 40px;
@@ -146,20 +146,20 @@
 
 .design-header {
   font-family: Raleway, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   font-weight: bold;
   text-align: center;
 }
 
 .design-description {
   font-family: Open Sans, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   text-align: center;
 }
 
 .final-header {
   font-family: Open Sans, serif;
-  font-size: 3.375em;
+  font-size: 2vw;
   text-align: center;
 }
 
@@ -170,13 +170,13 @@
 
 .page-list-header {
   font-family: Raleway, serif;
-  font-size: 1.875em;
+  font-size: 1.67vw;
   color: #9B9B9B;
 }
 
 .page-list-item {
   font-family: Raleway, serif;
-  font-size: 1.5em;
+  font-size: 1.33vw;
 }
 
 .final-background {
@@ -207,30 +207,30 @@ height: auto;
 
 .img-header {
   font-family: Raleway, serif;
-  font-size: 3.375em;
+  font-size: 2vw;
   font-weight: bold;
 }
 
 .img-des {
   font-family: Raleway, serif;
-  font-size: 2.25em;
+  font-size: 2.0vw;
   font-weight: 600;
 }
 
 .self-introduction {
   font-family: Raleway, serif;
-  font-size: 1.875em;
+  font-size: 1.67vw;
   color: #4A4A4A;
 }
 .myname {
   font-family: Arvo, serif;
-  font-size: 2em;
+  font-size: 1.78vw;
   color: #4A4A4A;
 }
 
 .nav-item {
   font-family: Raleway, serif;
-  font-size: 1.5em;
+  font-size: 1.33vw;
   color: #4A4A4A;
 }
 
