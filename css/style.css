@@ -1,17 +1,73 @@
-.half-image {
-  max-width: 50%;
-  height: auto;
+/*text and font*/
+body p {
+  line-height: 120%;
 }
 
-.half-height {
-  max-height: 50%;
-  width: auto;
+.font-size-1 {
+  font-size: 3.0vw;
 }
 
-.introduction {
-  font-family: Raleway, serif;
+.font-size-2 {
+  font-size: 2.5vw;
 }
 
+.font-size-3 {
+  font-size: 2.0vw;
+}
+
+.font-size-4 {
+  font-size: 1.67vw;
+}
+
+.font-size-5 {
+  font-size: 1.33vw;
+}
+
+.raleway {
+  font-family: 'Raleway', serif;
+}
+
+.open-sans {
+  font-family: 'Open Sans', serif;
+}
+
+.source-san-pro {
+  font-family: 'Source Sans Pro', serif;
+}
+
+.arvo {
+  font-family: 'Arvo', serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.semi-bold {
+  font-weight: 600;
+}
+
+.color-green {
+  color: #48B6A1;
+}
+
+.color-grey-light {
+  color: #9B9B9B;
+}
+
+.color-white {
+  color: #ffffff;
+}
+
+.color-grey-dark {
+  color: #4A4A4A;
+}
+
+.color-green-light {
+  color: #7CD4C3;
+}
+
+/* hover effects on index page*/
 .hover-image figure {
 	margin: 0;
 	position: relative;
@@ -55,31 +111,6 @@
   font-weight: bold;
 }
 
-.section-header {
-  font-family: Raleway, serif;
-  font-size: 2.0vw;
-  color: #9B9B9B;
-  text-align: center;
-}
-
-.description-text {
-  font-family: Open Sans, serif;
-  font-size: 1.67vw;
-  line-height: 1.2em;
-}
-
-.description-amp {
-  color: #48B6A1;
-  font-weight: bold;
-}
-
-.quote-text {
-  font-family: Raleway, serif;
-  font-size: 2.0vw;
-  font-weight: 600;
-  text-align: center;
-}
-
 .quote-amp {
   color: #48B6A1;
   font-size: 1.4em;
@@ -90,46 +121,12 @@
   color: white;
 }
 
-.list-head {
-  font-family: Raleway, serif;
-  font-size: 2.0vw;
-  color: #48B6A1;
-}
-
-.list-item {
-  font-family: Source Sans Pro, serif;
-  font-size: 1.67vw;
-  color: #9B9B9B;
-}
-
 .image-background {
   background-image: url(../image/gotable/personaBack.png);
   background-size: 100% 100%;
 }
 
-.persona-header {
-  font-family: Raleway, serif;
-  font-size: 1.67vw;
-  font-weight: bold;
-}
-
-.persona-description {
-  font-family: Open Sans, serif;
-  font-size: 1.67vw;
-  line-height: 1em;
-}
-
-.persona-item {
-  list-style-type: disc;
-  font-family: Raleway, serif;
-  font-size: 1.67vw;
-  line-height: 1em;
-}
-
 .image-description {
-  font-family: Open Sans, serif;
-  font-size: 2.0vw;
-  text-align: center;
   margin-top: 10px;
   margin-bottom: 40px;
 }
@@ -144,39 +141,9 @@
   background-repeat: no-repeat;
 }
 
-.design-header {
-  font-family: Raleway, serif;
-  font-size: 2.0vw;
-  font-weight: bold;
-  text-align: center;
-}
-
-.design-description {
-  font-family: Open Sans, serif;
-  font-size: 2.0vw;
-  text-align: center;
-}
-
-.final-header {
-  font-family: Open Sans, serif;
-  font-size: 2vw;
-  text-align: center;
-}
-
 .move-page {
   position: relative;
   top: 600px;
-}
-
-.page-list-header {
-  font-family: Raleway, serif;
-  font-size: 1.67vw;
-  color: #9B9B9B;
-}
-
-.page-list-item {
-  font-family: Raleway, serif;
-  font-size: 1.33vw;
 }
 
 .final-background {
@@ -204,36 +171,6 @@ height: auto;
   width: 125%;
 }
 
-
-.img-header {
-  font-family: Raleway, serif;
-  font-size: 2vw;
-  font-weight: bold;
-}
-
-.img-des {
-  font-family: Raleway, serif;
-  font-size: 2.0vw;
-  font-weight: 600;
-}
-
-.self-introduction {
-  font-family: Raleway, serif;
-  font-size: 1.67vw;
-  color: #4A4A4A;
-}
-.myname {
-  font-family: Arvo, serif;
-  font-size: 2.3vw;
-  color: #4A4A4A;
-}
-
-.nav-item {
-  font-family: Raleway, serif;
-  font-size: 1.33vw;
-  color: #4A4A4A;
-}
-
 .nav-bar {
   height: 168px;
 }
@@ -252,11 +189,7 @@ height: auto;
   background-repeat: no-repeat;
   color: white;
 }
-.mark1-header {
-  font-family: Raleway, serif;
-  font-size: 2.0vw;
-  color: #7CD4C3;
-}
+
 .double-image {
   width: 100%;
   height: auto;
@@ -278,37 +211,14 @@ height: auto;
   color: white;
 }
 
-.Halfmeter-section-header-text {
-  font-family: Raleway, serif;
-  font-size: 3.0vw;
-  font-weight: 600;
-}
-
-.halfmeter-section-title {
-  font-family: Raleway, serif;
-  font-size: 2.5vw;
-  font-weight: 500;
-  text-align: center;
-  color: #48B6A1;
-}
-
 .mark2-background {
   background-color: #6992A2;
   color: white;
 }
 
-.halfmeter-des-amp {
-  font-weight: 600;
-  color: #48B6A1;
-}
 .halfmeter-list li {
   color: #48B6A1;
   font-size: 2.0vw;
-}
-.halfmeter-list-text {
-  font-family: Open Sans, serif;
-  line-height: 1.2em;
-  color: #ABABAB;
 }
 
 .halfmeter-section-header3 {
