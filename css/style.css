@@ -228,3 +228,9 @@ height: auto;
   height: 33vh;
   color: white;
 }
+
+.bottom-align {
+  position: absolute;
+  bottom: 0;
+  right: 10%;
+}
