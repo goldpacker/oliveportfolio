@@ -190,6 +190,16 @@ height: auto;
   color: white;
 }
 
+.onboarding-background {
+  background-image: url(../image/gotable/issue.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding-top: 14.1%;
+  padding-bottom: 14.1%;
+  width: 100%;
+  color: white;
+}
+
 .double-image {
   width: 100%;
   height: auto;
@@ -219,7 +229,6 @@ height: auto;
 .halfmeter-list li {
   color: #48B6A1;
   font-size: 2.0vw;
-}
 
 .halfmeter-section-header3 {
   background-image: url(../image/Halfmeter/redesign.png);
@@ -233,4 +242,9 @@ height: auto;
   position: absolute;
   bottom: 0;
   right: 10%;
+}
+
+.padding-center {
+  padding-top: 18%;
+  padding-bottom: 18%;
 }
