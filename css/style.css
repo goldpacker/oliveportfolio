@@ -194,8 +194,8 @@ height: auto;
   background-image: url(../image/gotable/issue.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  padding-top: 14.1%;
-  padding-bottom: 14.1%;
+  padding-top: 20.45%;
+  padding-bottom: 20.45%;
   width: 100%;
   color: white;
 }
@@ -244,7 +244,6 @@ height: auto;
   right: 10%;
 }
 
-.padding-center {
-  padding-top: 18%;
-  padding-bottom: 18%;
+.space-inline {
+  line-height: 120%;
 }
