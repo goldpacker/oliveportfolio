@@ -1,26 +1,27 @@
 /*text and font*/
+
 body p {
   line-height: 120%;
 }
 
 .font-size-1 {
-  font-size: 2.28vw;
+  font-size: 36px;
 }
 
 .font-size-2 {
-  font-size: 1.9vw;
+  font-size: 30px;
 }
 
 .font-size-3 {
-  font-size: 1.52vw;
+  font-size: 24px;
 }
 
 .font-size-4 {
-  font-size: 1.27vw;
+  font-size: 20px;
 }
 
 .font-size-5 {
-  font-size: 1.01vw;
+  font-size: 16px;
 }
 
 .raleway {
