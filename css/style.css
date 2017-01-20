@@ -141,6 +141,11 @@ body p {
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
+.thinking-background img {
+  max-width: 80%;
+  margin: 0 auto;
+  display: block;
+}
 
 .move-page {
   position: relative;
