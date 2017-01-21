@@ -48,6 +48,10 @@ body p {
   font-weight: 600;
 }
 
+.medium {
+  font-weight: 500;
+}
+
 .color-green {
   color: #48B6A1;
 }
@@ -252,4 +256,19 @@ height: auto;
 
 .space-inline {
   line-height: 120%;
+}
+
+.center-img {
+  display: block;
+  margin: auto;
+}
+
+.large-inline-space {
+  line-height: 200%;
+}
+
+.blocbox-process-background {
+  background-image: url(../image/Blocbox/processbk.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
