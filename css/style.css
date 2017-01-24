@@ -1,7 +1,7 @@
 /*text and font*/
 
 body p {
-  line-height: 120%;
+  line-height: 150%;
 }
 
 .font-size-1 {
@@ -271,4 +271,9 @@ height: auto;
   background-image: url(../image/Blocbox/processbk.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
+}
+
+.image-max-width {
+  width: 100%;
+  height: auto;
 }
