@@ -72,6 +72,10 @@ body p {
   color: #7CD4C3;
 }
 
+.color-orenge {
+  color: #F78A7D;
+}
+
 /* hover effects on index page*/
 .hover-image figure {
 	margin: 0;
@@ -238,7 +242,6 @@ height: auto;
 
 .halfmeter-list li {
   color: #48B6A1;
-  font-size: 2.0vw;
 
 .halfmeter-section-header3 {
   background-image: url(../image/Halfmeter/redesign.png);
