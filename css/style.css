@@ -280,3 +280,9 @@ height: auto;
   width: 100%;
   height: auto;
 }
+
+.underline {
+  display:inline-block;
+  border-bottom:1px solid black;
+  padding-bottom:2px;
+}
